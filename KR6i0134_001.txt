@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:44.786055
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:40
 #+TITLE: 比丘聽施經
 #+PROPERTY: CBETA_ID T14n0504
 #+PROPERTY: ID KR6i0134
